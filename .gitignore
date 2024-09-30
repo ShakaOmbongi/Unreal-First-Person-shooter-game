@@ -1,0 +1,15 @@
+# Unreal Engine .gitignore
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.log
+*.opensdf
+*.sdf
+*.opendb
+*.VC.db
+*.vsp
+*.vspx
+*.tmp
+
+

@@ -49,8 +49,6 @@ Time Management • Training • Problem Solving • Research • Strategy • P
 [![Watch the Aim Training Demo]](https://youtu.be/Eza3tZrKn2k)
 
 
-*(Replace `YOUR_VIDEO_CODE` with your YouTube link if you upload a gameplay video)*
-
 ---
 
 ##  Author
